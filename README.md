@@ -1,4 +1,7 @@
 # CigaRecognition
+<a href="https://www.youtube.com/youtube-id">
+  <img src="https://placehold.it/350x350" width="20" />
+</a>
 This project aims to build an object identification algorithm, based on YOLOv3 in DarkNet framework, which is able to identify cigarettes and cigars.
 
 ## Why would this be relevant?
