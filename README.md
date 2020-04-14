@@ -173,11 +173,11 @@ So we can try capturing the bounding boxes, as we can see below:
 
  BEFORE:
  
-![](./test/brad.jpg)
+![](./test/brad.jpeg)
 
 AFTER:
 
-![](./test/brad-predicted.jpg)
+![](./test/brad-predicted.jpeg)
 
 + Miley Cyrus
 
@@ -203,11 +203,11 @@ AFTER:
 
  BEFORE:
  
-![](./test/obama.jpg)
+![](./test/obama.jpeg)
 
 AFTER:
 
-![](./test/obama-predicted.jpg)
+![](./test/obama-predicted.jpeg)
 
 + Scarlett Johansson
 
