@@ -156,7 +156,7 @@ That is, considering a IoU - Intersection over Union - of 50% in order to consid
 !./darknet detector test data/labelled_data.data cfg/yolov3_test.cfg /mydrive/customYOLOv3/backup/yolov3_train_last.weights /mydrive/customYOLOv3/test/cigarette.jpg -thresh 0.3
 ```
 
-![](./test/predicted.jpg)
+![](./test/predictions.jpg)
 
 This procedure can be completely seen in the file **CigaRecognition.ypinb**.
 
