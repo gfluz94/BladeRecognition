@@ -1,5 +1,6 @@
 # CigaRecognition
 ![](./test/joker-predicted.gif)
+
 This project aims to build an object identification algorithm, based on YOLOv3 in DarkNet framework, which is able to identify cigarettes and cigars.
 
 ## Why would this be relevant?
@@ -169,30 +170,55 @@ In order to be able to apply our developed model to more images and even to vide
 So we can try capturing the bounding boxes, as we can see below:
 
 + Brad Pitt
+
  BEFORE:
+ 
 ![](./test/brad.jpg)
+
 AFTER:
+
 ![](./test/brad-predicted.jpg)
+
 + Miley Cyrus
+
  BEFORE:
+ 
 ![](./test/miley.jpg)
+
 AFTER:
+
 ![](./test/miley-predicted.jpg)
+
 + Chandler Bing
+
  BEFORE:
+ 
 ![](./test/chandler.jpg)
+
 AFTER:
+
 ![](./test/chandler-predicted.jpg)
+
 + Obama
+
  BEFORE:
+ 
 ![](./test/obama.jpg)
+
 AFTER:
+
 ![](./test/obama-predicted.jpg)
+
 + Scarlett Johansson
+
  BEFORE:
+ 
 ![](./test/cigarette.jpg)
+
 AFTER:
+
 ![](./test/cigarette-predicted.jpg)
+
 
 
 
